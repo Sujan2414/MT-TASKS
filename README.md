@@ -2,5 +2,5 @@
 
 EMAIL SPAM DETECTION USING NAIVE BAYES
 by-
-Sujan S Dandgulkar  &      Reddy 
+Sujan S Dandgulkar  &   Reddy 
 
